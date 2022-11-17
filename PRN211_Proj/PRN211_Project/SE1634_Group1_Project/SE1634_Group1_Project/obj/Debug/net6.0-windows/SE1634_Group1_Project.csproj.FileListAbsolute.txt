@@ -1,0 +1,408 @@
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\appsettings.json
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\SE1634_Group1_Project.exe
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\SE1634_Group1_Project.deps.json
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\SE1634_Group1_Project.runtimeconfig.json
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\SE1634_Group1_Project.dll
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\SE1634_Group1_Project.pdb
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.csproj.AssemblyReference.cache
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.Form1.resources
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.GUI.EmptyGUI.resources
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.GUI.HomeGUI.resources
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.GUI.LoginGUI.resources
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.GUI.MainGUI.resources
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.GUI.QuizzDetailGUI.resources
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.csproj.GenerateResource.cache
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.AssemblyInfoInputs.cache
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.AssemblyInfo.cs
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.csproj.CoreCompileInputs.cache
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.dll
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\refint\SE1634_Group1_Project.dll
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.pdb
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.genruntimeconfig.cache
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\ref\SE1634_Group1_Project.dll
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Humanizer.dll
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.csproj.CopyComplete
+D:\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.GUI.DoQuizzGUI.resources
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\SE1634_Group1_Project.exe
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\SE1634_Group1_Project.deps.json
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\SE1634_Group1_Project.runtimeconfig.json
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\SE1634_Group1_Project.dll
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\SE1634_Group1_Project.pdb
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.csproj.AssemblyReference.cache
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.Form1.resources
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.GUI.DoQuizzGUI.resources
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.GUI.EmptyGUI.resources
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.GUI.HomeGUI.resources
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.GUI.LoginGUI.resources
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.GUI.MainGUI.resources
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.GUI.QuizzDetailGUI.resources
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.csproj.GenerateResource.cache
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.AssemblyInfoInputs.cache
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.AssemblyInfo.cs
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.csproj.CoreCompileInputs.cache
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.csproj.CopyComplete
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.dll
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\refint\SE1634_Group1_Project.dll
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.pdb
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.genruntimeconfig.cache
+C:\Users\quani\Desktop\PRN211_Project\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\ref\SE1634_Group1_Project.dll
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\SE1634_Group1_Project.exe
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\SE1634_Group1_Project.deps.json
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\SE1634_Group1_Project.runtimeconfig.json
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\SE1634_Group1_Project.dll
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\SE1634_Group1_Project.pdb
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.csproj.AssemblyReference.cache
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.Form1.resources
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.GUI.DoQuizzGUI.resources
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.GUI.EmptyGUI.resources
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.GUI.HomeGUI.resources
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.GUI.LoginGUI.resources
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.GUI.MainGUI.resources
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.GUI.QuizzDetailGUI.resources
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.csproj.GenerateResource.cache
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.AssemblyInfoInputs.cache
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.AssemblyInfo.cs
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.csproj.CoreCompileInputs.cache
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.csproj.CopyComplete
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.dll
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\refint\SE1634_Group1_Project.dll
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.pdb
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.genruntimeconfig.cache
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\ref\SE1634_Group1_Project.dll
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\accomplied.AccomplishedGUI.resources
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\accomplied.RankGUI.resources
+C:\Users\nhiep\Music\repos\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.GUI.AddQuizGui.resources
+C:\Users\nhiep\OneDrive\Máy tính\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\SE1634_Group1_Project.exe
+C:\Users\nhiep\OneDrive\Máy tính\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\SE1634_Group1_Project.dll
+C:\Users\nhiep\OneDrive\Máy tính\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\SE1634_Group1_Project.pdb
+C:\Users\nhiep\OneDrive\Máy tính\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\nhiep\OneDrive\Máy tính\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nhiep\OneDrive\Máy tính\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nhiep\OneDrive\Máy tính\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nhiep\OneDrive\Máy tính\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\nhiep\OneDrive\Máy tính\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nhiep\OneDrive\Máy tính\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\nhiep\OneDrive\Máy tính\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nhiep\OneDrive\Máy tính\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\nhiep\OneDrive\Máy tính\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\nhiep\OneDrive\Máy tính\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nhiep\OneDrive\Máy tính\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nhiep\OneDrive\Máy tính\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\nhiep\OneDrive\Máy tính\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\nhiep\OneDrive\Máy tính\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\nhiep\OneDrive\Máy tính\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nhiep\OneDrive\Máy tính\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\nhiep\OneDrive\Máy tính\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\nhiep\OneDrive\Máy tính\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\nhiep\OneDrive\Máy tính\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nhiep\OneDrive\Máy tính\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\SE1634_Group1_Project.dll
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\SE1634_Group1_Project.exe
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\SE1634_Group1_Project.deps.json
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\SE1634_Group1_Project.runtimeconfig.json
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.csproj.AssemblyReference.cache
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.Form1.resources
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\accomplied.AccomplishedGUI.resources
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.GUI.AddQuizGui.resources
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.GUI.DoQuizzGUI.resources
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.GUI.EmptyGUI.resources
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.GUI.HomeGUI.resources
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.GUI.LoginGUI.resources
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.GUI.MainGUI.resources
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.GUI.QuizzDetailGUI.resources
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\accomplied.RankGUI.resources
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.csproj.GenerateResource.cache
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.AssemblyInfoInputs.cache
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.AssemblyInfo.cs
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.csproj.CoreCompileInputs.cache
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.csproj.CopyComplete
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.dll
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\refint\SE1634_Group1_Project.dll
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.pdb
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.genruntimeconfig.cache
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\SE1634_Group1_Project.pdb
+C:\Users\nhiep\Music\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\ref\SE1634_Group1_Project.dll
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\SE1634_Group1_Project.exe
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\SE1634_Group1_Project.deps.json
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\SE1634_Group1_Project.runtimeconfig.json
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\SE1634_Group1_Project.dll
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\SE1634_Group1_Project.pdb
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.csproj.AssemblyReference.cache
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.Form1.resources
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\accomplied.AccomplishedGUI.resources
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.GUI.AddQuizGui.resources
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.GUI.DoQuizzGUI.resources
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.GUI.EmptyGUI.resources
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.GUI.HomeGUI.resources
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.GUI.LoginGUI.resources
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.GUI.MainGUI.resources
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.GUI.QuizzDetailGUI.resources
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\accomplied.RankGUI.resources
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.csproj.GenerateResource.cache
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.AssemblyInfoInputs.cache
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.AssemblyInfo.cs
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.csproj.CoreCompileInputs.cache
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.csproj.CopyComplete
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.dll
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\refint\SE1634_Group1_Project.dll
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.pdb
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.genruntimeconfig.cache
+C:\Users\quani\Desktop\PRN211_Project (2)\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\ref\SE1634_Group1_Project.dll
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\SE1634_Group1_Project.exe
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\SE1634_Group1_Project.deps.json
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\SE1634_Group1_Project.runtimeconfig.json
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\SE1634_Group1_Project.dll
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\SE1634_Group1_Project.pdb
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.csproj.AssemblyReference.cache
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.Form1.resources
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\accomplied.AccomplishedGUI.resources
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.GUI.AddQuizGui.resources
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.GUI.DoQuizzGUI.resources
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.GUI.EmptyGUI.resources
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.GUI.HomeGUI.resources
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.GUI.LoginGUI.resources
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.GUI.MainGUI.resources
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.GUI.QuizzDetailGUI.resources
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\accomplied.RankGUI.resources
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.csproj.GenerateResource.cache
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.AssemblyInfoInputs.cache
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.AssemblyInfo.cs
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.csproj.CoreCompileInputs.cache
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.csproj.CopyComplete
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.dll
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\refint\SE1634_Group1_Project.dll
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.pdb
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\SE1634_Group1_Project.genruntimeconfig.cache
+C:\Users\quani\Desktop\PRN211_Proj\PRN211_Project\SE1634_Group1_Project\SE1634_Group1_Project\obj\Debug\net6.0-windows\ref\SE1634_Group1_Project.dll
